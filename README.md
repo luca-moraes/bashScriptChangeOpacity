@@ -56,7 +56,7 @@ changeOpacity() (
 
 ![Bashrc file with the code](https://github.com/luca-moraes/bashScriptChangeOpacity/blob/main/imgs/3.png)
 
-
+&nbsp;
 
 ##
 
@@ -64,7 +64,7 @@ changeOpacity() (
 
 ![Bashrc file with the code](https://github.com/luca-moraes/bashScriptChangeOpacity/blob/main/imgs/4.png)
 
-
+&nbsp;
 
 ##
 
@@ -72,7 +72,7 @@ changeOpacity() (
 
 ![Bashrc file with the code](https://github.com/luca-moraes/bashScriptChangeOpacity/blob/main/imgs/5.png)
 
-
+&nbsp;
 
 ##
 
