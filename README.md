@@ -37,7 +37,7 @@ changeOpacity() (
 ##
 
 ### Add the code at the end of your .bashrc file for example, then run the source command or open a new terminal
-
+&nbsp;
 
 ![Bashrc file with the code](https://github.com/luca-moraes/bashScriptChangeOpacity/blob/main/imgs/1.png)
 
@@ -46,7 +46,7 @@ changeOpacity() (
 ##
 
 ### If you don't give an argument will return this error:
-
+&nbsp;
 
 ![Bashrc file with the code](https://github.com/luca-moraes/bashScriptChangeOpacity/blob/main/imgs/2.png)
 
@@ -55,7 +55,7 @@ changeOpacity() (
 ##
 
 ### Give a number as argument, then click on the window
-
+&nbsp;
 
 ![Bashrc file with the code](https://github.com/luca-moraes/bashScriptChangeOpacity/blob/main/imgs/3.png)
 
@@ -64,7 +64,7 @@ changeOpacity() (
 ##
 
 ### Before:
-
+&nbsp;
 
 ![Bashrc file with the code](https://github.com/luca-moraes/bashScriptChangeOpacity/blob/main/imgs/4.png)
 
@@ -73,7 +73,7 @@ changeOpacity() (
 ##
 
 ### After:
-
+&nbsp;
 
 ![Bashrc file with the code](https://github.com/luca-moraes/bashScriptChangeOpacity/blob/main/imgs/5.png)
 
@@ -82,6 +82,6 @@ changeOpacity() (
 ##
 
 ### To go back to normal just use 100 as a parameter
-
+&nbsp;
 
 ![Bashrc file with the code](https://github.com/luca-moraes/bashScriptChangeOpacity/blob/main/imgs/6.png)
