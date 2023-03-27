@@ -32,7 +32,7 @@ changeOpacity() (
 
 ```
 
-
+&nbsp;
 
 ##
 
@@ -40,7 +40,7 @@ changeOpacity() (
 
 ![Bashrc file with the code](https://github.com/luca-moraes/bashScriptChangeOpacity/blob/main/imgs/1.png)
 
-
+&nbsp;
 
 ##
 
@@ -48,7 +48,7 @@ changeOpacity() (
 
 ![Bashrc file with the code](https://github.com/luca-moraes/bashScriptChangeOpacity/blob/main/imgs/2.png)
 
-
+&nbsp;
 
 ##
 
