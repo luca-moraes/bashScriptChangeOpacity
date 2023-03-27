@@ -3,7 +3,7 @@ A simple bash script that you can add the code in your .bashrc file for example 
 
 ## You can copy this code if you want:
 
-
+```shell
 
 	#!/bin/bash
 
@@ -30,4 +30,4 @@ A simple bash script that you can add the code in your .bashrc file for example 
 		fi
 	)
 
-
+```
