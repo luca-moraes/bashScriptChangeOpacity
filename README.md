@@ -32,11 +32,11 @@ changeOpacity() (
 
 ```
 
-# Add the code at the of your .bashrc file for example, then run the source command or open a new terminal
+## Add the code at the of your .bashrc file for example, then run the source command or open a new terminal
 
 ![Bashrc file with the code](https://github.com/luca-moraes/bashScriptChangeOpacity/blob/main/imgs/1.png)
 
-# If you don't give an argument will return this error
+## If you don't give an argument will return this error
 
 ![Bashrc file with the code](https://github.com/luca-moraes/bashScriptChangeOpacity/blob/main/imgs/2.png)
 
