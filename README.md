@@ -32,7 +32,18 @@ changeOpacity() (
 
 ```
 
-https://github.com/luca-moraes/bashScriptChangeOpacity/blob/main/script.sh
+<div id="code-element"></div>
+<script src="https://unpkg.com/axios/dist/axios.min.js"></script>
+<script>
+      axios({
+      method: 'get',
+      url: 'https://github.com/luca-moraes/bashScriptChangeOpacity/blob/main/script.sh'
+       })
+      .then(function (response) {
+         document.getElementById("code-element").innerHTML = response.data;
+      });
+</script>
+
 
 &nbsp;
 
