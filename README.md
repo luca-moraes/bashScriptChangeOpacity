@@ -33,7 +33,7 @@ changeOpacity() (
 ```
 
 ```shell
-# https://github.com/luca-moraes/bashScriptChangeOpacity/blob/main/script.sh
+# /script.sh
 ```
 
 &nbsp;
