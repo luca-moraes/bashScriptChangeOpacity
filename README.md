@@ -3,7 +3,7 @@ A simple bash script that you can add the code in your .bashrc file for example 
 
 You can copy this code if you want:
 
-'''
+'''bash
 #!/bin/bash
 
 #Aquele Neofetch basico nunca pode faltar né
