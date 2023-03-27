@@ -16,8 +16,8 @@ changeOpacity() (
 	if [ -z "$1" ]; then
 		echo "No argument supplied"
 	else
-		#usa o cursos do mouse pra selecionar a janela e mudar a opacidade, indo de 0 a 100, para mais ou menos transparencia respectivamente
-    		#use the mouse cursor to select the window and change the opacity, going from 0 to 100, for more or less transparency respectively
+		#usa o cursor do mouse pra selecionar a janela e mudar a opacidade, indo de 0 a 100, para mais ou menos transparencia respectivamente
+    		#uses the mouse cursor to select the window and change the opacity, going from 0 to 100, for more or less transparency respectively
     
 		sh -c 'xprop -f _NET_WM_WINDOW_OPACITY 32c -set _NET_WM_WINDOW_OPACITY $(printf 0x%x $((0xffffffff * '$1' / 100)))'
 	fi
