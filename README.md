@@ -34,7 +34,7 @@ changeOpacity() (
 
 -----
 
-__
+##
 
 ### Add the code at the end of your .bashrc file for example, then run the source command or open a new terminal
 
@@ -42,7 +42,7 @@ __
 
 -----
 
-<br />
+##
 
 ### If you don't give an argument will return this error
 
@@ -50,7 +50,7 @@ __
 
 -----
 
-<br />
+##
 
 ### Give a number as argument, then click on the window
 
@@ -58,7 +58,7 @@ __
 
 -----
 
-<br />
+##
 
 ### Before:
 
@@ -66,7 +66,7 @@ __
 
 -----
 
-<br />
+##
 
 ### After:
 
@@ -74,7 +74,7 @@ __
 
 -----
 
-<br />
+##
 
 ### To go back to normal just use 100 as a parameter
 
