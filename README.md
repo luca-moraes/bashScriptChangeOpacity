@@ -34,7 +34,7 @@ changeOpacity() (
 
 -----
 
-<br />
+__
 
 ### Add the code at the end of your .bashrc file for example, then run the source command or open a new terminal
 
