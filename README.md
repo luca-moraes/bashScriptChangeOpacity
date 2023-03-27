@@ -33,7 +33,7 @@ changeOpacity() (
 ```
 
 ```shell
-# /script.sh
+# ./script.sh
 ```
 
 &nbsp;
